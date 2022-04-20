@@ -1,0 +1,34 @@
+body {
+  background-color: #8d8741;
+}
+h1 {
+  color: black;
+}
+h3 {
+  color: black;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gold;
+  border-width: 5px;
+
+}
+.more {
+  color: black;
+}
+p {
+  color: white;
+}
+ul {
+  color: white;
+}
+tr {
+  color: white;
+}
+ol {
+  color: white;
+}
+.circular {
+  border-radius: 100%;
+}
