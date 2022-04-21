@@ -1,5 +1,5 @@
 body {
-  background-color: #8d8741;
+  background-color: grey;
 }
 h1 {
   color: black;
@@ -20,24 +20,19 @@ hr {
 }
 p {
   color: white;
-  font-size: 30px;
-
 }
 ul {
   color: white;
-  font-size: 25px;
 }
 tr {
   color: white;
-  font-size: 25px;
 }
 ol {
   color: white;
-  font-size: 25px;
 }
 .circular {
   border-radius: 100%;
 }
 a {
-  color: black;
+color: blue;
 }
